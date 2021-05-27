@@ -1,5 +1,5 @@
 {
-    "name": "draw.df",
+    "name": "df-diagram",
     "version": "14.6.13",
     "description": "diagrams.net desktop",
     "main": "electron.js",
@@ -14,10 +14,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:jgraph/drawio-desktop.git"
+        "url": "git@github.com:onionstack/drawio-desktop-df.git"
     },
     "keywords": [
-        "draw.io",
+        "df-diagram",
+        "dfd",
         "diagram",
         "flowchart",
         "UML"
@@ -25,9 +26,9 @@
     "author": "JGraph <support@draw.io>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/jgraph/drawio-desktop/issues"
+        "url": "https://github.com/onionstack/drawio-desktop-df/issues"
     },
-    "homepage": "https://github.com/jgraph/drawio",
+    "homepage": "https://github.com/onionstack/drawio-desktop-df",
     "dependencies": {
         "commander": "^7.2.0",
         "compression": "^1.7.4",

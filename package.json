@@ -23,7 +23,7 @@
         "flowchart",
         "UML"
     ],
-    "author": "JGraph <support@draw.io>",
+    "author": "JGraph <support@dfd>",
     "license": "Apache-2.0",
     "bugs": {
         "url": "https://github.com/onionstack/drawio-desktop-df/issues"

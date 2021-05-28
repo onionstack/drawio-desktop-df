@@ -25,15 +25,15 @@
         }]
     },
     "appx": {
-        "displayName": "draw.io Diagrams",
+        "displayName": "dfd Diagrams",
         "publisherDisplayName": "JGraph Ltd",
-        "identityName": "draw.io.draw.ioDiagrams",
+        "identityName": "dfd Diagrams",
         "publisher": "CN=9E628CCB-BE04-4557-A5A8-81EC34B09733"
     },
     "fileAssociations": [{
-            "ext": "drawio",
-            "name": "draw.io Diagram",
-            "description": "draw.io Diagram",
+            "ext": "dfd",
+            "name": "dfd Diagram",
+            "description": "dfd Diagram",
             "mimeType": "application/vnd.jgraph.mxfile",
             "role": "Editor"
         },

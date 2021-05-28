@@ -13,18 +13,18 @@
     },
     "npmRebuild": false,
     "linux": {
-        "executableName": "drawio",
+        "executableName": "dfd",
         "category": "Graphics",
-        "maintainer": "JGraph <support@draw.io>",
+        "maintainer": "JGraph <support@dfd>",
         "icon": "./build",
         "target": [
             "snap"
         ]
     },
     "fileAssociations": [{
-            "ext": "drawio",
-            "name": "draw.io Diagram",
-            "description": "draw.io Diagram",
+            "ext": "dfd",
+            "name": "dfd Diagram",
+            "description": "dfd Diagram",
             "mimeType": "application/vnd.jgraph.mxfile",
             "role": "Editor"
         },

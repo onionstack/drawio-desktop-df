@@ -12,9 +12,6 @@
         "output": "./dist/"
     },
     "npmRebuild": false,
-    "publish": {
-        "provider": "github"
-    },
     "win": {
         "target": [{
                 "target": "nsis",
@@ -39,9 +36,9 @@
         "artifactName": "${productName}-ia32-${version}-portable.${ext}"
     },
     "fileAssociations": [{
-            "ext": "drawio",
-            "name": "draw.io Diagram",
-            "description": "draw.io Diagram",
+            "ext": "dfd",
+            "name": "df Diagram",
+            "description": "df Diagram",
             "mimeType": "application/vnd.jgraph.mxfile",
             "role": "Editor"
         },

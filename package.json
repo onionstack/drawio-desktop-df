@@ -1,5 +1,5 @@
 {
-    "name": "df-diagram",
+    "name": "DFDiagram",
     "version": "14.6.13",
     "description": "diagrams.net desktop",
     "main": "electron.js",
@@ -17,7 +17,7 @@
         "url": "git@github.com:onionstack/drawio-desktop-df.git"
     },
     "keywords": [
-        "df-diagram",
+        "DFDiagram",
         "dfd",
         "diagram",
         "flowchart",

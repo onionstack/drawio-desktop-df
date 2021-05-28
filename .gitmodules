@@ -1,4 +1,4 @@
 [submodule "drawio"]
 	path = drawio
-	url = https://github.com/onionstack/drawio-df.git
+	url = git@github.com:onionstack/drawio-df.git
 	branch = master
